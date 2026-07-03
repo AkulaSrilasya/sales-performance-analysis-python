@@ -4,9 +4,11 @@
 This project analyzes retail sales data to identify business insights and performance trends.
 
 ## Tools Used
-- Python
-- Pandas
-- Matplotlib
+• Python (Data Analysis)  
+• Pandas (Data Cleaning & Aggregation)  
+• Matplotlib (Data Visualization)  
+• VS Code (Development Environment)  
+• CSV Dataset Handling
 
 ## Analysis Performed
 - Sales by Category Analysis
